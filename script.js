@@ -15,7 +15,7 @@ function isPalindrome(word){                    //funzione che ci dirà se la pa
 
 var parola = prompt("Dimmi una parola");        //Chiedo una parola
 
-isPal = isPalindrome(parola);                   //"isPal" è il risultato della funzione isPalindrome(word). Nella funzione scriviamo l'identificatore della variabile della riga sopra
+isPal = isPalindrome(parola);                   //"isPal" è il risultato della funzione isPalindrome(word). Nella funzione scriviamo l'identificatore della variabile della riga sopra(parola)
 
 
 if (isPal){                                     //condizione: se il risultato della funzione è "isPal", cioè "true", allora diremo che è palindroma
